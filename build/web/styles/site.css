@@ -1,0 +1,115 @@
+body{
+
+
+}
+#parent-container{
+    margin: auto;
+    padding: auto;
+    background-color: white;
+}
+.input:hover{
+    background-color: #1a6bcf;
+    color: #ffffff;
+}
+#sidebar-nav-item .glyphicon{
+    width: 50px;
+}
+#sidebar-nav-item{
+
+}
+
+.link{
+    display: block;
+    text-align: center;
+    margin-right: 3px;
+
+}
+
+#nav-item{
+    padding: 10px;
+    text-align: left;
+    border: 3px;
+    background-color: #A00D9B;
+}
+#header{
+    background-color: wheat;
+    //background-image: url(./images/bgd.jpeg);
+    height: 600px;
+}
+
+
+#sidebar{
+    background-color: #514EDD;
+    //background-image: url(./images/bgd.jpeg);
+    height: 300px;
+}
+.dropdown-menu .navlink{
+    background-color: #214469;
+    color: #32B9EE;
+}
+
+.dropdown-menu .navlink:hover,.dropdown-menu .navlink:active{
+    color: blue; 
+
+}
+#footer{
+    background-color: #CDB1B1;
+
+}
+#header #link{
+    //margin-top: 350px;
+    margin-left: 20px;
+    border-radius: 5px;
+
+}
+.padding-right{
+    padding-right: 15px;
+}
+#eltbody{
+    font-size: 14px;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+
+button.actb,a.actb{
+    color:black;
+    font-size: 14px;
+}
+.actions{
+    padding: 0px;
+}
+#eltbody tr{
+    margin: 0px;
+    padding: 0px;
+}
+.registrationForm{
+    height: 800px;
+    background-color: #BEC2B2;
+}
+.move-right{
+    margin-right: 200px;
+}
+.hlnk{
+    background-color: #214469;
+    color: white;
+}
+.hlnk:hover,.hlnk:active,.hlnk:focus{
+    color: wheat; 
+}
+.margin-right{
+    margin-right: 2px;
+}
+.no-padding{
+    text-align: left;
+
+
+}
+.nav-item{
+    width: 100px;
+
+}
+.nav-item:active,.nav-item:focus,.nav-item:hover{
+    background-color: gray;
+}
